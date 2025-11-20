@@ -14,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omerfaruk025&show_icons=true&locale=en" alt="omerfaruk025" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerfaruk025&" alt="omerfaruk025" /></p>
+
+![snake gif](https://github.com/OmerFaruk025/OmerFaruk025/blob/output/github-snake.svg)
