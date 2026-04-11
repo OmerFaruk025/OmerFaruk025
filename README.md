@@ -3,10 +3,13 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Omer Faruk</h1>
-<h3 align="center">Embedded Systems & Software Developer from Türkiye</h3>
-
+<h3 align="center">Software Developer from Türkiye</h3>
+<br/><br/>
+ 
 <p align="center">
-  <a href="mailto:omerfaruktalmac99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <strong>For Communication:</strong>
+  <br/><br/>
+  <a href="mailto:omerfaruktalmac1027@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/OmerFaruk025"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
