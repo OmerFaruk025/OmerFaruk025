@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello, I'm Omer Faruk</h1>
 <h3 align="center">Software Developer from Türkiye</h3>
 <br/><br/>
- 
+
 <p align="center">
   <strong>For Communication:</strong>
   <br/><br/>
@@ -16,11 +16,9 @@
 ---
 <br/><br/>
 
-
 <h2 align="center">
   🛠 Languages and Tools 
   <br/><br/>
-  
 </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,6 +35,7 @@
 
 ---
 <br/><br/>
+
 <div align="center">
   <h2>📊 My GitHub Stats <br/><br/></h2>
 </div>
@@ -54,3 +53,14 @@
 </div>
 
 
+<br/>
+
+<div align="center">
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;"><img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" /></td>
+      <td style="border: none;"><img src="https://komarev.com/ghpvc/?username=OmerFaruk025&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge&logo=github" /></td>
+      <td style="border: none;"><img src="https://img.shields.io/badge/Location-Turkey-red?style=for-the-badge&logo=googlemaps&logoColor=white" /></td>
+    </tr>
+  </table>
+</div>
